@@ -5,15 +5,15 @@
 ## 使用方法
 
 > [!NOTE]
-请先安装 `fastfetch`
-ArchLinux:
-``` sh
-yay -S fastfetch
-```
-Ubuntu:
-``` sh
-sudo apt upgrade && sudo apt install fastfetch
-```
+> 请先安装 `fastfetch`  
+> ArchLinux:  
+> ``` sh
+> yay -S fastfetch
+> ```
+> Ubuntu:  
+> ``` sh
+> sudo apt upgrade && sudo apt install fastfetch
+> ```
 
 
 ``` sh
